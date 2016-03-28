@@ -1,7 +1,7 @@
 ## Запуск
 
 * открыть index.html (в Chrome)
-* запустить сервер используя localhost:999
+* запустить сервер используя localhost:8080
 * для подключения к серверу нажмите File->Connect
 
 ## Access-Control-Allow-Origin:*
